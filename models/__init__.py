@@ -1,0 +1,1 @@
+"""RIFT model definitions."""
