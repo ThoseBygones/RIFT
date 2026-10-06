@@ -6,9 +6,8 @@ Official PyTorch implementation of the paper published in **IEEE Transactions on
 
 Xianhan Zeng · Gaozhi Liu · Sheng Li · Xinpeng Zhang · Jian Liu · Zhenxing Qian
 
-[[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11595688)]
-[[DOI](https://doi.org/10.1109/TCSVT.2026.3710358)]
-[[License: MIT](LICENSE)]
+[![Paper: IEEE Xplore](https://img.shields.io/badge/Paper-IEEE%20Xplore-00629B?style=flat-square&logo=ieee&logoColor=white&labelColor=555555)](https://ieeexplore.ieee.org/document/11595688)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 </div>
 
 ## Overview
